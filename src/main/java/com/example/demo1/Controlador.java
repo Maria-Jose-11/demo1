@@ -10,7 +10,7 @@ public class Controlador {
 
 
     @FXML
-    private AnchorPane anchopanel;
+    private AnchorPane anchopa
 
 
     @FXML
