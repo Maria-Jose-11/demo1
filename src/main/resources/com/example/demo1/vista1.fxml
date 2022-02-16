@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane fx:id="anchopanel" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo1.Controlador">
+   <children>
+      <Button fx:id="boton1" layoutX="134.0" layoutY="188.0" mnemonicParsing="false" onAction="#cambiar1" prefHeight="57.0" prefWidth="117.0" text="CAMBIAR ESTILO 1" />
+      <Button fx:id="boton2" layoutX="308.0" layoutY="188.0" mnemonicParsing="false" onAction="#cambiar2" prefHeight="51.0" prefWidth="117.0" text="CAMBIAR ESTILO 2" />
+      <Label fx:id="labeltitle" layoutX="238.0" layoutY="42.0" prefHeight="41.0" prefWidth="125.0" text="APLICACIÓN DE ESTILO" />
+      <Label fx:id="labelnombre" layoutX="247.0" layoutY="99.0" prefHeight="51.0" prefWidth="107.0" text="MARÍA JOSÉ CHALÁ" />
+   </children>
+</AnchorPane>

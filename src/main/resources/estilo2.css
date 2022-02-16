@@ -1,0 +1,6 @@
+#anchopanel { -fx-background-color: #000000}
+
+.label { -fx-background-color: #00FFFF;
+-fx-font-style: Comic Sans;
+-fx-font-size: 15px;
+}
